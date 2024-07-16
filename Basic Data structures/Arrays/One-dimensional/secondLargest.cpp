@@ -36,5 +36,3 @@ int main()
     cout << "Second Largest element of the array is " << secondLargest(a, n) << endl;
     return (0);
 }
-
-//when all elements or some elements are same
