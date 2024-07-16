@@ -24,6 +24,10 @@ This repository contains the theory and C++ implementations of a wide range of d
    
 ## Advanced Data Structures
 ## Searching Algorithms
+1. **Linear Search**
+2. **Binary Search - Iterative**
+3. **Binary Search - Recursive**
+
 ## Sorting Algorithms
 ## Graph Algorithms
 ## Divide and Conquer
