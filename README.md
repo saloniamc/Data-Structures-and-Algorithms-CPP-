@@ -20,7 +20,7 @@ This repository contains the theory and C++ implementations of a wide range of d
 2. **Strings**
 3. **Linked Lists**
 4. **Stacks**
-5. **Queues**
+
    
 ## Advanced Data Structures
 ## Searching Algorithms
@@ -32,6 +32,7 @@ This repository contains the theory and C++ implementations of a wide range of d
 1. **Bubble Sort**
 2. **Selection Sort**
 3. **Merge Sort**
+
 
 ## Graph Algorithms
 ## Divide and Conquer
