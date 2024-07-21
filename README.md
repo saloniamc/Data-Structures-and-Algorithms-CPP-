@@ -17,7 +17,6 @@ This repository contains the theory and C++ implementations of a wide range of d
 
 ## Basic Data Structures
 1. **Arrays**
-2. **Strings**
 
 
 
