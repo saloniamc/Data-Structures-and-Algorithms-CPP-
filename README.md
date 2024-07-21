@@ -29,6 +29,10 @@ This repository contains the theory and C++ implementations of a wide range of d
 3. **Binary Search - Recursive**
 
 ## Sorting Algorithms
+1. **Bubble Sort**
+2. **Selection Sort**
+3. **Merge Sort**
+
 ## Graph Algorithms
 ## Divide and Conquer
 ## Greedy Algorithms
