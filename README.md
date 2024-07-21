@@ -19,7 +19,7 @@ This repository contains the theory and C++ implementations of a wide range of d
 1. **Arrays**
 2. **Strings**
 3. **Linked Lists**
-4. **Stacks**
+
 
    
 ## Advanced Data Structures
