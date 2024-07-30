@@ -4,13 +4,13 @@ This repository contains the theory and C++ implementations of a wide range of d
 
 ## Contents
 
-- [Basic Data Structures](#basic-data-structures)
-- [Advanced Data Structures](#advanced-data-structures)
-- [Searching and Sorting Algorithms](#searching-and-sorting-algorithms)
-- [Graph Algorithms](#graphs)
-- [Algorithmic Paradigms](#algorithmic-paradigms)
-- [Mathematical and Bit Manipulation Algorithms](#mathematical-and-bit-manipulation-algorithms)
-- [Advanced Topics](#advanced-topics)
+- [Basic Data Structures](#Basic-Data-Structures)
+- [Advanced Data Structures](#Advanced-Data-Structures)
+- [Searching and Sorting Algorithms](#Searching-And-Sorting-Algorithms)
+- [Graph Algorithms](#Graphs)
+- [Algorithmic Paradigms](#Algorithmic-Paradigms)
+- [Mathematical and Bit Manipulation Algorithms](#Mathematical-And-Bit-Manipulation-Algorithms)
+- [Advanced Topics](#Advanced-Topics)
 
 ## 1. Basic Data Structures
 
