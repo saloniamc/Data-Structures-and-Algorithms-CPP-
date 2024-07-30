@@ -4,7 +4,7 @@ This repository contains the theory and C++ implementations of a wide range of d
 
 ## Contents
 
-- [Basic Data Structures](#1-basic-data-structures) Arrays, Strings, LL, Stacks, Queues 
+- [Basic Data Structures](#1-basic-data-structures)
 - [Advanced Data Structures](#2-advanced-data-structures)
 - [Graphs](#3-graphs)
 - [Algorithmic Paradigms](#4-algorithmic-paradigms)
